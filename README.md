@@ -8,7 +8,7 @@
 
 S.N. |Case | Status | 
 :------------ | :-------------| :-------------| 
-1| Alloting arrival slot using tailor made ML model | :heavy_check_mark: |
+1| Alloting arrival slot using our tailor made algorithm | :heavy_check_mark: |
 2| Alloting Mess Schedule for proper enforcement of covid guidelines | :heavy_check_mark: | 
 3| Decision tree ChatBot for self diagnosis of Covid-19| :heavy_check_mark: | 
 4| Chat Rooms for students alloted same arrival time slot| :heavy_check_mark: |
